@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Utsoree Das"
 title_separator          : "-"
 name                     : &name "Utsoree Das"
-description              : &description "personal description"
+description              : &description "Ph.D. Candidate in Economics at the University of Geneva"
 url                      : https://utsoree.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "utsoree/utsoree.github.io"
@@ -23,26 +23,26 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Utsoree Das"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "Ph.D. Candidate in Economics"
+  location         : "Geneva, Switzerland"
+  employer         : "University of Geneva"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Utsoree.Das@unige.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=guYQ9iUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5618-8127"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Utsoree-Das" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/utsoree"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
