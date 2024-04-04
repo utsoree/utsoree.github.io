@@ -21,7 +21,7 @@ repository               : "utsoree/utsoree.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "UtsoreeDas2.jpg"
+  avatar           : "UtsoreeDas2.jpeg"
   name             : "Utsoree Das"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
