@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Home"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), [University of Geneva](https://www.unige.ch/).
+Welcome to my website.
+
+I am a PhD candidate in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), [University of Geneva](https://www.unige.ch/).
 
 My research is broadly based on Applied Microeconomics- with a focus on Development Economics, Environmental and Resource Economics, and Political Economy. 
 
