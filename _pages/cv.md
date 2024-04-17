@@ -10,6 +10,8 @@ redirect_from:
 Here you can download my complete <a href="https://utsoree.github.io/files/CV_Utsoree_April2024.pdf" target="_blank">CV</a>
 {% include base_path %}
 
+<!--
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -61,5 +63,7 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
+-->
+
 ======
 * Currently signed in to 43 different slack teams
