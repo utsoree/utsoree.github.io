@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here you can download my complete <a href="https://utsoree.github.io/files/CV_Utsoree_April2024.pdf" target="_blank">CV</a>
+Here you can download my complete <a href="https://utsoree.github.io/files/CV_Utsoree_August2024.pdf" target="_blank">CV</a>
 {% include base_path %}
 
 <!--
