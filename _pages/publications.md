@@ -16,7 +16,7 @@ author_profile: true
     <a href="https://cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3">
       "Adaptive Capacity and Subsequent Droughts: Evidence from Ethiopia"
     </a>, 
-    <em>Environment and Development Economics</em>, 28(6), 511-537. doi:10.1017/S1355770X23000074, October 2023
+    <em>Environment and Development Economics</em>, October 2023
   </li>
   
   <li>
@@ -24,7 +24,7 @@ author_profile: true
     <a href="https://link.springer.com/article/10.1007/s10640-023-00826-x">
       "Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"
     </a>, 
-    <em>Environmental and Resource Economics</em>, 87, 321–345. doi:10.1007/s10640-023-00826-x, January 2024
+    <em>Environmental and Resource Economics</em>, January 2024
   </li>
 </ul>
 
