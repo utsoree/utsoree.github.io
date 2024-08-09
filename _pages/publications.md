@@ -11,7 +11,7 @@ author_profile: true
 
 U. Das, S. Di Falco, A. Mahajan, <a href="{{cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3}}">"Adaptive Capacity and Subsequent Droughts: Evidence from Ethiopia”, Environment and Development Economics, 28(6), 511-537. doi:10.1017/S1355770X23000074, October 2023</a>.</div>
 
-S. Di Falco, A. Kis, M. Viarengo, U. Das, \href{https://link.springer.com/article/10.1007/s10640-023-00826-x}{"Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"}, \textit{Environmental and Resource Economics}, 87, 321–345. doi:10.1007/s10640-023-00826-x \hfill January 2024
+S. Di Falco, A. Kis, M. Viarengo, U. Das, <a href="{{link.springer.com/article/10.1007/s10640-023-00826-x}}">"Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"}, Environmental and Resource Economics, 87, 321–345. doi:10.1007/s10640-023-00826-x, January 2024</a>.</div>
     
 You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
