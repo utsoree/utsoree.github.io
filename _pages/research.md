@@ -10,39 +10,15 @@ author_profile: true
   <strong>Works in Progress:</strong>
 </div>
 
-<ul style="line-height: 2.0;">
-  <li>
-    U. Das, E. Katovich, J. Rexer, 
-    <em>"Is There a 'Local Advantage' in the Global Mining Industry?"</em> (February 2024 -)
-  </li>
+- U. Das, E. Katovich, J. Rexer, _"Is There a 'Local Advantage' in the Global Mining Industry?"_ (February 2024 -)
 
-  <li>
-    U. Das, S. Maji, 
-    <em>"Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"</em> (March 2023 -)
-  </li>
+- U. Das, S. Maji, _"Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"_ (March 2023 -)
 
-  <li>
-    U. Das, S. Di Falco, E. Katovich, 
-    <em>"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
-    (funded by TRANSPATH- Horizon Europe Grant No. 101081984) (January 2023 -)
-  </li>
+- U. Das, S. Di Falco, E. Katovich, _"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"_ (funded by TRANSPATH- Horizon Europe Grant No. 101081984) (January 2023 -)
 
-  <li>
-    S. Ananian and U. Das, 
-    <em>"Employment and Wage Outcomes of Second-Generation Migrants"</em> (April 2024 -)
-  </li>
+- S. Ananian and U. Das, _"Employment and Wage Outcomes of Second-Generation Migrants"_ (April 2024 -)
 
-  <!-- Uncomment the entry below if you want to include it -->
-  <!--
-  <li>
-    U. Das, 
-    <em>"Impact of CCTs on Female Education and Labour Market Outcomes: Evidence from Kanyashree Prakalpa of West Bengal, India"</em> (October 2023 -)
-  </li>
-  -->
+<!-- Uncomment the entry below if you want to include it -->
+<!-- - U. Das, _"Impact of CCTs on Female Education and Labour Market Outcomes: Evidence from Kanyashree Prakalpa of West Bengal, India"_ (October 2023 -) -->
 
-  <li>
-    F. Alpízar, U. Das, S. Di Falco, P. Dingkuhn, J. Nel, 
-    <em>"Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"</em> 
-    (Deliverable D4.1 EU Horizon Europe TRANSPATH Project) (May - October 2023)
-  </li>
-</ul>
+- F. Alpízar, U. Das, S. Di Falco, P. Dingkuhn, J. Nel, _"Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"_ (Deliverable D4.1 EU Horizon Europe TRANSPATH Project) (May - October 2023)
