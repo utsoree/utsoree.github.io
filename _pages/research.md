@@ -4,10 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-{% if site.author.googlescholar %}
-<div class="wordwrap">
-  <strong>Works in Progress:</strong>
-</div>
+## Works in Progress
 
 <ul>
   <li>
