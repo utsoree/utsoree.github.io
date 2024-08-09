@@ -10,15 +10,46 @@ author_profile: true
   <strong>Works in Progress:</strong>
 </div>
 
-- **U. Das, E. Katovich, J. Rexer**, _"Is There a 'Local Advantage' in the Global Mining Industry?"_ (February 2024 -)
 
-- **U. Das, S. Maji**, _"Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"_ (March 2023 -)
+<ul>
+  <li>
+    U. Das, E. Katovich, J. Rexer, 
+    <strong>"Is There a 'Local Advantage' in the Global Mining Industry?"</strong>
+    <span style="float: right;">February 2024 -</span>
+  </li>
 
-- **U. Das, S. Di Falco, E. Katovich**, _"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"_ (funded by TRANSPATH- Horizon Europe Grant No. 101081984) (January 2023 -)
+  <li>
+    U. Das, S. Maji, 
+    <strong>"Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"</strong>
+    <span style="float: right;">March 2023 -</span>
+  </li>
 
-- **S. Ananian and U. Das**, _"Employment and Wage Outcomes of Second-Generation Migrants"_ (April 2024 -)
+  <li>
+    U. Das, S. Di Falco, E. Katovich, 
+    <strong>"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"</strong> 
+    (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
+    <span style="float: right;">January 2023 -</span>
+  </li>
 
-<!-- Uncomment the entry below if you want to include it -->
-<!-- - **U. Das**, _"Impact of CCTs on Female Education and Labour Market Outcomes: Evidence from Kanyashree Prakalpa of West Bengal, India"_ (October 2023 -) -->
+  <li>
+    S. Ananian and U. Das, 
+    <strong>"Employment and Wage Outcomes of Second-Generation Migrants"</strong>
+    <span style="float: right;">April 2024 -</span>
+  </li>
 
-- **F. Alpízar, U. Das, S. Di Falco, P. Dingkuhn, J. Nel**, _"Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"_ (Deliverable D4.1 EU Horizon Europe TRANSPATH Project) (May - October 2023)
+  <!-- Uncomment the entry below if you want to include it -->
+  <!--
+  <li>
+    U. Das, 
+    <strong>"Impact of CCTs on Female Education and Labour Market Outcomes: Evidence from Kanyashree Prakalpa of West Bengal, India"</strong>
+    <span style="float: right;">October 2023 -</span>
+  </li>
+  -->
+
+  <li>
+    F. Alpízar, U. Das, S. Di Falco, P. Dingkuhn, J. Nel, 
+    <strong>"Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"</strong> 
+    (Deliverable D4.1 EU Horizon Europe TRANSPATH Project)
+    <span style="float: right;">May - October 2023</span>
+  </li>
+</ul>
