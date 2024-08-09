@@ -5,13 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-## Works in Progress
+{% if site.author.googlescholar %}
+<div class="wordwrap">
+  <strong>Works in Progress:</strong>
+</div>
 
-<ul style="line-height: 2.0;">
+<ul>
   <li>
     <em>"Is There a 'Local Advantage' in the Global Mining Industry?"</em> with Erik Katovich and Jonah Rexer
   </li>
-
+  
   <li>
     <em>"Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"</em> with Souparna Maji
   </li>
@@ -37,5 +40,11 @@ author_profile: true
     <em>"Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"</em> 
     (Deliverable D4.1 EU Horizon Europe TRANSPATH Project) with Francisco Alpízar, Salvatore Di Falco, Paul Dingkuhn, and Jeanne Nel
   </li>
+
 </ul>
+
+<p>You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</p>
+{% endif %}
+
+
 
