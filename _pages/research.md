@@ -46,6 +46,11 @@ author_profile: true
 
 </ul>
 
+<div class="wordwrap">
+  [<strong>Works in Progress:</strong>](/publications/)
+</div>
+
+
 {% endif %}
 
 
