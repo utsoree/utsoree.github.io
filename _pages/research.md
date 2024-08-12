@@ -47,7 +47,7 @@ author_profile: true
 </ul>
 
 <div class="wordwrap">
-<strong>Peer-Reviewed Publications:</strong> <a href="{/publications/}">Here</a>
+<strong>Peer-Reviewed Publications:</strong> <a href="{https://utsoree.github.io/publications/}">Here</a>
      
 </div>
 
