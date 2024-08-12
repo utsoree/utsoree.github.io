@@ -14,11 +14,10 @@ main:
   - title: "Presentations"
     url: /presentations/    
 
-  - title: "Contact"
-    url: /contact/
    -->
    
   - title: "CV"
     url: /cv/
     
-  
+  - title: "Contact"
+    url: /contact/
