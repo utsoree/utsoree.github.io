@@ -47,7 +47,7 @@ author_profile: true
 </ul>
 
 <div class="wordwrap">
-  [<strong>Works in Progress:</strong>](/publications/)
+[<strong>Peer-Reviewed Publications:</strong>(/publications/)
 </div>
 
 
