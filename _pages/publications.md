@@ -28,7 +28,7 @@ author_profile: true
   </li>
 </ul>
 
-<p>You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</p>
+<!-- <p>You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</p> -->
 {% endif %}
 
 <!-- Uncomment the following lines if you want to include posts tagged as publications -->
