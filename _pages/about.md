@@ -15,7 +15,7 @@ My research is broadly based on Applied Microeconomics- with a focus on Developm
 
 Updates:
 ======
-- **August, 2023:** I am working as a researcher in [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant, funded by the European Commission. 
+- **August, 2023:** I am working as a doctoral research assistant in [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant, funded by the European Commission. 
 - **April, 2024:** I am currently visiting the RESEARCH department at [International Labour Organization (ILO)](https://www.ilo.org/).
 
 
