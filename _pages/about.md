@@ -19,6 +19,6 @@ Updates:
 - **April, 2024:** I am currently visiting the RESEARCH department at [International Labour Organization (ILO)](https://www.ilo.org/).
 
 
-I am the [co-president](https://www.rarevoicesineconomics.com/team) of the [Rare Voices in Economics](https://www.rarevoicesineconomics.com/) Association.
+I am a [co-president](https://www.rarevoicesineconomics.com/team) of the [Rare Voices in Economics](https://www.rarevoicesineconomics.com/) Association.
 - Check out our latest activity, the flagship event: [3rd Rare Voices in Economics Conference](https://www.rarevoicesineconomics.com/conference-2024); September 9 & 10, 2024.
   
