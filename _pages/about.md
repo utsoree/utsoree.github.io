@@ -20,5 +20,5 @@ Updates:
 
 
 I am a [co-president](https://www.rarevoicesineconomics.com/team) of the [Rare Voices in Economics](https://www.rarevoicesineconomics.com/) Association.
-- Check out our latest activity, the flagship event: [3rd Rare Voices in Economics Conference](https://www.rarevoicesineconomics.com/conference-2024); September 9 & 10, 2024.
+- Check out our latest activity, we are organizing the annual flagship event: [3rd Rare Voices in Economics Conference](https://www.rarevoicesineconomics.com/conference-2024); September 9 & 10, 2024.
   
