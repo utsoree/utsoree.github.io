@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/utsoree/" # Username
+  linkedin         : "/utsoree" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/UtsoreeD?s=20"  # Replace this with your X / Twitter handle
+  twitter          : "/UtsoreeD"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
