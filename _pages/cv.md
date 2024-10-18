@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My complete CV is here: <a href="https://utsoree.github.io/files/CV_Utsoree_September2024.pdf" target="_blank">View and/or Download</a>
+My complete CV is here: <a href="https://utsoree.github.io/files/CV_Utsoree_October2024.pdf" target="_blank">View and/or Download</a>
 {% include base_path %}
 
 
