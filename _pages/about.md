@@ -20,6 +20,10 @@ Updates:
 - **October, 2024:** I am working as a consultant at the [International Trade Centre (ITC)](https://www.intracen.org/).
 
 I am a [co-president](https://www.rarevoicesineconomics.com/team) of the [Rare Voices in Economics](https://www.rarevoicesineconomics.com/) Association.
+
+
+<!-- 
 - Check out our latest activity, we organised the annual flagship event: [3rd Rare Voices in Economics Conference](https://www.rarevoicesineconomics.com/conference-2024); September 9 & 10, 2024.
+-->
 
   
