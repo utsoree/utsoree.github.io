@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
+
+<div class="wordwrap">
+<strong>Peer-Reviewed Publications:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
+</div>
+
+
 <div class="wordwrap">
   <strong>Works in Progress:</strong>
 </div>
@@ -13,7 +19,8 @@ author_profile: true
 <ul>
   <li>
     <em>"Is There a 'Local Advantage' in the Global Mining Industry?"</em>
-    <br> with Erik Katovich and Jonah Rexer
+    <br> with  <a href="https://ekatovich.github.io/"> Erik Katovich
+    </a>,  and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
   </li>
   
   <li>
@@ -46,9 +53,7 @@ author_profile: true
 
 </ul>
 
-<div class="wordwrap">
-<strong>Peer-Reviewed Publications:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
-</div>
+
 
 
 {% endif %}
