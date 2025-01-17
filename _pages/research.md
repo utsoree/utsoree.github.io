@@ -50,7 +50,7 @@ author_profile: true
 </ul>
 
 <div class="wordwrap" style="margin-top: 50px; margin-bottom: 30px;">
-  <strong>Policy Reports:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
+  <strong>Policy Reports:</strong>
 </div>
 
 <ul>
