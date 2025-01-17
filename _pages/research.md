@@ -7,12 +7,11 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 
-<div class="wordwrap">
-<strong>Peer-Reviewed Publications:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
+<div class="wordwrap" style="margin-bottom: 20px;">
+  <strong>Peer-Reviewed Publications:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
 </div>
 
-
-<div class="wordwrap">
+<div class="wordwrap" style="margin-top: 20px;">
   <strong>Works in Progress:</strong>
 </div>
 
