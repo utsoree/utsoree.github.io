@@ -12,7 +12,7 @@ author_profile: true
 </div>
 
 
-<div class="wordwrap" style="margin-top: 30px; margin-bottom: 10px;">
+<div class="wordwrap" style="margin-top: 10px; margin-bottom: 10px;">
   <strong>Works in Progress:</strong>
 </div>
 
