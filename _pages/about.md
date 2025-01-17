@@ -15,9 +15,12 @@ My research is broadly based on Applied Microeconomics- with a focus on Developm
 
 Updates:
 ======
-- **August, 2023:** I am working as a doctoral research assistant in [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant, funded by the European Commission. 
-- **April, 2024:** I am currently visiting the RESEARCH department at the [International Labour Organization (ILO)](https://www.ilo.org/).
-- **October, 2024:** I am working as a consultant at the [International Trade Centre (ITC)](https://www.intracen.org/).
+<!--  - **August, 2023:** -->
+- I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a field experiment (an RCT) in Ghana.
+<!--  - **April, 2024:** -->
+- I am visiting the RESEARCH department at the [International Labour Organization (ILO)](https://www.ilo.org/) for a paper that targets the labour market outcomes of Second-Generation Migrants, as part of a broder project series on Horizontal Inequalities.
+<!--  - **October, 2024:** -->
+- I am working as a Consultant Economist at the [International Trade Centre (ITC)](https://www.intracen.org/) to build up a framework on Decarbonisation.
 
 I am a [co-president](https://www.rarevoicesineconomics.com/team) of the [Rare Voices in Economics](https://www.rarevoicesineconomics.com/) Association.
 
