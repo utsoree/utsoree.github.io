@@ -30,7 +30,8 @@ author_profile: true
 
   <li>
     <em>"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
-    <br> with Salvatore Di Falco and Erik Katovich (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
+    <br> with <a href="https://www.unige.ch/gsem/en/research/faculty/all/salvatore-di-falco/"> Salvatore Di Falco  </a>  and <a href="https://ekatovich.github.io/"> Erik Katovich
+    </a> (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
   </li>
 
   <li>
@@ -48,7 +49,7 @@ author_profile: true
 
   <li>
     <em>"Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"</em> 
-    <br> with Francisco Alpízar, Salvatore Di Falco, Paul Dingkuhn, and Jeanne Nel (Deliverable D4.1 EU Horizon Europe TRANSPATH Project) 
+    <br> with  <a href="https://www.wur.nl/en/persons/francisco-alpizar-rodriguez.htm"> Francisco Alpízar  </a> ,  <a href="https://www.unige.ch/gsem/en/research/faculty/all/salvatore-di-falco/"> Salvatore Di Falco  </a>, <a href="https://research.wur.nl/en/persons/paul-dingkuhn">  Paul Dingkuhn </a>, and <a href="https://www.wur.nl/en/persons/jeanne-nel.htm"> Jeanne Nel </a>   (Deliverable D4.1 EU Horizon Europe TRANSPATH Project) 
   </li>
 
 </ul>
