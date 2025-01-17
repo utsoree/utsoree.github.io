@@ -7,12 +7,12 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 
-<div class="wordwrap" style="margin-top: 30px; margin-bottom: 30px;">
+<div class="wordwrap" style="margin-top: 50px; margin-bottom: 50px;">
   <strong>Peer-Reviewed Publications:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
 </div>
 
 
-<div class="wordwrap" style="margin-top: 30px; margin-bottom: 30px;">
+<div class="wordwrap" style="margin-top: 30px; margin-bottom: 10px;">
   <strong>Works in Progress:</strong>
 </div>
 
@@ -49,7 +49,7 @@ author_profile: true
 
 </ul>
 
-<div class="wordwrap" style="margin-top: 30px; margin-bottom: 30px;">
+<div class="wordwrap" style="margin-top: 50px; margin-bottom: 30px;">
   <strong>Policy Reports:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
 </div>
 
