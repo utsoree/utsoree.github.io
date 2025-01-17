@@ -20,7 +20,7 @@ author_profile: true
   <li>
     <em> <a href="https://www.dropbox.com/scl/fi/8b3ca86rynu11ddsfyw6b/DKR_Global_Mining_011525.pdf?rlkey=ks9z4t339eexvybfjgnda446i&dl=0"> "Comparative Local and Multinational Advantages in the Global Mining Industry"  </a> </em>
     <br> with  <a href="https://ekatovich.github.io/"> Erik Katovich
-    </a>,  and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
+    </a> and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
   </li>
   
   <li>
