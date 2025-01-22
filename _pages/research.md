@@ -36,7 +36,7 @@ author_profile: true
 
   <li>
     <em>"Employment and Wage Outcomes of Second-Generation Migrants"</em>
-    <br> with Sevane Ananian
+    <br> with Sevane Ananian and Giulia Dellaferrera
   </li>
 
   <!-- Uncomment the entry below if you want to include it -->
