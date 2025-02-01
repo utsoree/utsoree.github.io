@@ -17,7 +17,7 @@ Updates:
 ======
 <!--  - **August, 2023:** -->
 - I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a _field experiment (RCT)_ in Ghana.
-<p> [Field visits: Kumasi, Juaben, Apemso, Agona, Nkawie districts in January 2025.](https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop) </p>
+  <p> [Field visits: Kumasi, Juaben, Apemso, Agona, Nkawie districts in January 2025.](https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop) </p>
 <!--  - **April, 2024:** -->
 - I am visiting the RESEARCH department at the [International Labour Organization (ILO)](https://www.ilo.org/) to analyse the labour market outcomes of _second-generation migrants_, as part of a broader project series on _horizontal inequalities_.
 <!--  - **October, 2024:** -->
