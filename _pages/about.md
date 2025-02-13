@@ -13,7 +13,7 @@ I am a PhD candidate in Economics at the [Institute of Economics and Econometric
 
 My research is broadly based on Applied Microeconomics- with a focus on Development Economics, Environmental and Resource Economics, Migration, and Political Economy. 
 
-<span style="font-size: small;">Updates:</span>
+<span style="font-size: large;">Updates:</span>
 ======
 <!--  - **August, 2023:** -->
 - I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a _field experiment (RCT)_ in Ghana.
