@@ -29,15 +29,17 @@ author_profile: true
   </li>
 
   <li>
+    <em> <a href="https://www.dropbox.com/scl/fi/uqpwuw0hh7ol1wgkwx1f0/SGM-R-R_Mar_04_acc.pdf?rlkey=dcmfk1p0i1p1oabsoojlhvibw&st=8yiky0fd&dl=0"> "Employment and Wage Outcomes of Second-Generation Migrants" </a>  </em>
+    <br> with Sevane Ananian and Giulia Dellaferrera
+  </li>
+ 
+  
+  <li>
     <em>"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
     <br> with <a href="https://www.unige.ch/gsem/en/research/faculty/all/salvatore-di-falco/"> Salvatore Di Falco  </a>  and <a href="https://ekatovich.github.io/"> Erik Katovich
     </a> (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
   </li>
 
-  <li>
-    <em> <a href="https://www.dropbox.com/scl/fi/uqpwuw0hh7ol1wgkwx1f0/SGM-R-R_Mar_04_acc.pdf?rlkey=dcmfk1p0i1p1oabsoojlhvibw&st=8yiky0fd&dl=0"> "Employment and Wage Outcomes of Second-Generation Migrants" </a>  </em>
-    <br> with Sevane Ananian and Giulia Dellaferrera
-  </li>
 
   <!-- Uncomment the entry below if you want to include it -->
   <!--
