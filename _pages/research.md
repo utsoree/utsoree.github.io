@@ -11,17 +11,23 @@ author_profile: true
   <strong>Peer-Reviewed Publications:</strong> <a href="https://utsoree.github.io/publications/">Click here</a>
 </div>
 
+<div class="wordwrap" style="margin-top: 10px; margin-bottom: 10px;">
+  <strong>Working Papers:</strong>
+</div>
 
+<ul>
+  <li>
+    <em> <a href="https://steg.cepr.org/publications/comparative-local-and-multinational-advantages-global-mining-industry"> "Comparative Local and Multinational Advantages in the Global Mining Industry"  </a> - CEPR STEG Working Paper </em>
+    <br> with  <a href="https://ekatovich.github.io/"> Erik Katovich
+    </a> and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
+  </li>
+</ul>
+  
 <div class="wordwrap" style="margin-top: 10px; margin-bottom: 10px;">
   <strong>Works in Progress:</strong>
 </div>
 
 <ul>
-  <li>
-    <em> <a href="https://www.dropbox.com/scl/fi/n3siym9lnzt2qwmqdc6x0/DKR_Global_Mining_031925.pdf?rlkey=df14iwffamxkb8hb83tsg8vsx&st=3w0fq7f1&dl=0"> "Comparative Local and Multinational Advantages in the Global Mining Industry"  </a> </em>
-    <br> with  <a href="https://ekatovich.github.io/"> Erik Katovich
-    </a> and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
-  </li>
   
   <li>
     <em>  <a href="https://www.dropbox.com/scl/fi/idyyathaouwh1609hnno1/DA_Pol_Crime_Eval_DAS_MAJI_210325.pdf?rlkey=qkgwchd4qp3mp0i07fd9wc9c5&st=760dzno1&dl=0">  "Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"  </a>  </em>
