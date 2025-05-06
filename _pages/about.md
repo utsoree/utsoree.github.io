@@ -13,7 +13,7 @@ I am a PhD candidate in Economics at the [Institute of Economics and Econometric
 
 My research is broadly based on Applied Microeconomics- with a focus on Development Economics, Environmental and Resource Economics, Migration, and Political Economy. 
 
-<span style="font-size: large;">Updates:</span>
+<span style="font-size: medium;">Updates:</span>
 ======
 - I have been awarded the [Subside Tremplin grant](https://www.unige.ch/rectorat/egalite/programmes-et-formations/programmes/subside-tremplin/) for the academic year 2025-2026.  
   <p style="font-size: 0.9em;">This grant makes it possible for female researchers at the University of Geneva to free up time in order to enrich their research portfolio, write articles, and finalize or publish their thesis.</p>
