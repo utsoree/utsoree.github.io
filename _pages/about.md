@@ -15,8 +15,6 @@ My research is broadly based on Applied Microeconomics- with a focus on Developm
 
 <span style="font-size: large;">Updates:</span>
 ======
-<div style="font-size: 0.9em; line-height: 1.5;">
-
 - I have been awarded the [Subside Tremplin grant](https://www.unige.ch/rectorat/egalite/programmes-et-formations/programmes/subside-tremplin/) for the academic year 2025-2026.  
   <p style="font-size: 0.7em;">This grant makes it possible for female researchers at the University of Geneva to free up time in order to enrich their research portfolio, write articles, and finalize or publish their thesis.</p>
 
@@ -29,7 +27,6 @@ My research is broadly based on Applied Microeconomics- with a focus on Developm
 
 I am a [co-president](https://www.rarevoicesineconomics.com/team) of the [Rare Voices in Economics](https://www.rarevoicesineconomics.com/) Association.
 
-</div>
 
 <!-- 
 - Check out our latest activity, we organised the annual flagship event: [3rd Rare Voices in Economics Conference](https://www.rarevoicesineconomics.com/conference-2024); September 9 & 10, 2024.
