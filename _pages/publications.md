@@ -13,7 +13,7 @@ author_profile: true
 <ul style="line-height: 1.8; list-style-type: none; padding-left: 0;">
 
   <li style="margin-bottom: 25px;">
-    <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants" target="_blank">
+    <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants">
       <strong>"A study of the employment and earnings outcomes of second-generation migrants"</strong>
     </a><br>
     Utsoree Das, Giulia Dellaferrera, Sevane Ananian<br>
@@ -21,7 +21,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 25px;">
-     <a href="https://link.springer.com/article/10.1007/s10640-023-00826-x" target="_blank">
+     <a href="https://link.springer.com/article/10.1007/s10640-023-00826-x">
       <strong>"Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"</strong>
     </a><br>
     Salvatore Di Falco, Anna B. Kis, Martina Viarengo, Utsoree Das<br>
@@ -29,7 +29,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 25px;">
-    <a href="https://cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3" target="_blank">
+    <a href="https://cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3">
       <strong>"Adaptive Capacity and Subsequent Droughts: Evidence from Ethiopia"</strong>
      </a><br>
      Utsoree Das, Salvatore Di Falco, Avichal Mahajan<br>
