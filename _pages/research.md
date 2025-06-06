@@ -34,11 +34,7 @@ author_profile: true
     <br> with Souparna Maji
   </li>
 
-  <li>
-    <em> <a href="https://www.dropbox.com/scl/fi/uqpwuw0hh7ol1wgkwx1f0/SGM-R-R_Mar_04_acc.pdf?rlkey=dcmfk1p0i1p1oabsoojlhvibw&st=8yiky0fd&dl=0"> "Employment and Wage Outcomes of Second-Generation Migrants" </a>  </em>
-    <br> with Sevane Ananian and Giulia Dellaferrera
-  </li>
- 
+
   
   <li>
     <em>"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
