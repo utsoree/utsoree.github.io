@@ -10,33 +10,36 @@ author_profile: true
   <strong>Peer-Reviewed Publications:</strong>
 </div>
 
-<ul>
+<ul style="line-height: 1.8; list-style-type: none; padding-left: 0;">
 
-  <li>
-    <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants"> "A study of the employment and earnings outcomes of second-generation migrants" </a> 
-    <br> Utsoree Das, Giulia Dellaferrera, Sevane Ananian
-    <br> Working Paper 141, <em> ILO Working Papers <em>, May 2025
+  <li style="margin-bottom: 25px;">
+    <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants" target="_blank">
+      <strong>"A study of the employment and earnings outcomes of second-generation migrants"</strong>
+    </a><br>
+    Utsoree Das, Giulia Dellaferrera, Sevane Ananian<br>
+    Working Paper 141, <em>ILO Working Papers</em>, May 2025
   </li>
 
-  <li>
-    Salvatore Di Falco, Anna B. Kis, Martina Viarengo, Utsoree Das, 
-    <a href="https://link.springer.com/article/10.1007/s10640-023-00826-x">
-      "Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"
-    </a>, 
+  <li style="margin-bottom: 25px;">
+     <a href="https://link.springer.com/article/10.1007/s10640-023-00826-x" target="_blank">
+      <strong>"Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"</strong>
+    </a><br>
+    Salvatore Di Falco, Anna B. Kis, Martina Viarengo, Utsoree Das<br>
     <em>Environmental and Resource Economics</em>, January 2024
   </li>
 
-  
-  <li>
-    Utsoree Das, Salvatore Di Falco, Avichal Mahajan, 
-    <a href="https://cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3">
-      "Adaptive Capacity and Subsequent Droughts: Evidence from Ethiopia"
-    </a>, 
+  <li style="margin-bottom: 25px;">
+    <a href="https://cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3" target="_blank">
+      <strong>"Adaptive Capacity and Subsequent Droughts: Evidence from Ethiopia"</strong>
+     </a><br>
+     Utsoree Das, Salvatore Di Falco, Avichal Mahajan<br>
     <em>Environment and Development Economics</em>, October 2023
   </li>
-  
-  
+
 </ul>
+
+
+
 
 <!-- <p>You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</p> -->
 {% endif %}
