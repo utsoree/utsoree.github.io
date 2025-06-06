@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-<div class="wordwrap" style="margin-top: 50px; margin-bottom: 50px;">
+<div class="wordwrap" style="margin-top: 50px; margin-bottom: 25px;">
   <strong>Peer-Reviewed Publications:</strong>
 </div>
 
