@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-<div class="wordwrap">
+<div class="wordwrap" style="margin-top: 50px; margin-bottom: 50px;">
   <strong>Peer-Reviewed Publications:</strong>
 </div>
 
 <ul>
 
   <li>
-    <em> <a href="https://www.dropbox.com/scl/fi/uqpwuw0hh7ol1wgkwx1f0/SGM-R-R_Mar_04_acc.pdf?rlkey=dcmfk1p0i1p1oabsoojlhvibw&st=8yiky0fd&dl=0"> "Employment and Wage Outcomes of Second-Generation Migrants" </a>  </em>
-    <br> with Sevane Ananian and Giulia Dellaferrera
+    <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants"> "A study of the employment and earnings outcomes of second-generation migrants" </a> 
+    <br> Utsoree Das, Giulia Dellaferrera, Sevane Ananian, <em> ILO Working Papers <em>
   </li>
 
   <li>
-    S. Di Falco, A. Kis, M. Viarengo, U. Das, 
+    Salvatore Di Falco, Anna B. Kis, Martina Viarengo, Utsoree Das, 
     <a href="https://link.springer.com/article/10.1007/s10640-023-00826-x">
       "Leaving Home: Cumulative Climate Shocks and Migration in Sub-Saharan Africa"
     </a>, 
@@ -27,7 +27,7 @@ author_profile: true
 
   
   <li>
-    U. Das, S. Di Falco, A. Mahajan, 
+    Utsoree Das, Salvatore Di Falco, Avichal Mahajan, 
     <a href="https://cambridge.org/core/journals/environment-and-development-economics/article/adaptive-capacity-and-subsequent-droughts-evidence-from-ethiopia/8ABEA50847AD651EF0C356CE1A392EC3">
       "Adaptive Capacity and Subsequent Droughts: Evidence from Ethiopia"
     </a>, 
