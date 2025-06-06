@@ -14,7 +14,8 @@ author_profile: true
 
   <li>
     <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants"> "A study of the employment and earnings outcomes of second-generation migrants" </a> 
-    <br> Utsoree Das, Giulia Dellaferrera, Sevane Ananian, <em> ILO Working Papers <em>
+    <br> Utsoree Das, Giulia Dellaferrera, Sevane Ananian
+    <br> Working Paper 141, <em> ILO Working Papers <em>, May 2025
   </li>
 
   <li>
