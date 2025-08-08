@@ -37,7 +37,7 @@ author_profile: true
 
   
   <li>
-    <em>"Sustainability and Quality-upgrading in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
+    <em>"Traceability and Sustainability in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
     <br> with <a href="https://www.unige.ch/gsem/en/research/faculty/all/salvatore-di-falco/"> Salvatore Di Falco  </a>  and <a href="https://ekatovich.github.io/"> Erik Katovich
     </a> (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
   </li>
