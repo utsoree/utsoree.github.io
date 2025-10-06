@@ -17,7 +17,7 @@ My research is broadly based on Applied Microeconomics- with a focus on Developm
 ======
 - I won the [INFER PhD Paper Award](https://infer-research.eu/awards/) from the [International Network for Economic Research (INFER)](https://infer-research.eu/) - for the paper [Local and Multinational Comparative Advantage in the Global Mining Industry](https://infer-research.eu/publication/local-and-multinational-comparative-advantage-in-the-global-mining-industry/).
   
-  - I have been awarded the [Subside Tremplin grant](https://www.unige.ch/gsem/en/about/news-events/news/2025/utsoree-das-received-subisde-tremplin/) from the [Equality and Diversity Service, University of Geneva](https://www.unige.ch/rectorat/egalite/programmes-et-formations/programmes/subside-tremplin/) - for the academic year 2025-2026.  
+- I have been awarded the [Subside Tremplin grant](https://www.unige.ch/gsem/en/about/news-events/news/2025/utsoree-das-received-subisde-tremplin/) from the [Equality and Diversity Service, University of Geneva](https://www.unige.ch/rectorat/egalite/programmes-et-formations/programmes/subside-tremplin/) - for the academic year 2025-2026.  
   <p style="font-size: 0.9em;">This grant makes it possible for female researchers at the University of Geneva to free up time in order to enrich their research portfolio, write articles, and finalize or publish their thesis.</p>
 
 - I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a _field experiment (RCT)_ in Ghana.
