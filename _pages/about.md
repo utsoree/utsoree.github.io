@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website.
 
-I am a PhD candidate in Economics at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), [University of Geneva](https://www.unige.ch/).
+I am a [PhD candidate in Economics](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/) at the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/), [University of Geneva](https://www.unige.ch/).
 
 My research is broadly based on Applied Microeconomics- with a focus on Development Economics, Environmental and Resource Economics, Migration, and Political Economy. 
 
