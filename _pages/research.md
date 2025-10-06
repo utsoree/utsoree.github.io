@@ -32,7 +32,7 @@ author_profile: true
   
   <li>
     <em>  <a href="https://www.dropbox.com/scl/fi/idyyathaouwh1609hnno1/DA_Pol_Crime_Eval_DAS_MAJI_210325.pdf?rlkey=qkgwchd4qp3mp0i07fd9wc9c5&st=760dzno1&dl=0">  "Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"  </a>  </em>
-    <br> with Souparna Maji _(submitted)_
+    <br> with Souparna Maji
   </li>
 
 
