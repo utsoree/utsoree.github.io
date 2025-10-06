@@ -22,6 +22,7 @@ My research is broadly based on Applied Microeconomics- with a focus on Developm
 
 - I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a _field experiment (RCT)_ in Ghana.
   <p> <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop"> Field visits: Kumasi, Juaben, Apemso, Agona, Nkawie districts in January 2025.  </a> </p>
+  <p> <a href=""> Upcoming pilot study: October 2025.  </a> </p>
 
 - I visited the [International Labour Organization (ILO)](https://www.ilo.org/) at the ILO-RESEARCH department to analyse the <a href="https://www.ilo.org/publications/study-employment-and-earnings-outcomes-second-generation-migrants">labour market outcomes of _second-generation migrants_</a> , as part of a broader project series on <a href="https://www.ilo.org/sites/default/files/2025-05/Research%20Brief.Horizontal%20inequalities%20in%20the%20labour%20market.pdf">_horizontal inequalities_</a>.
 
