@@ -7,6 +7,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Policy Reports"
+    url: /policy_reports/
+
   - title: "CV"
     url: /cv/
     
