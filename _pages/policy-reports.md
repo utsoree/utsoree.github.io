@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Policy Reports"
-permalink: /policy_reports/
+permalink: /policy-reports/
 author_profile: true
 ---
 
