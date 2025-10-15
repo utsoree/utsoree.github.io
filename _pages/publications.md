@@ -38,6 +38,7 @@ author_profile: true
   </li>
 
 </ul>
+  {% endif %}
 
 
 
