@@ -18,9 +18,15 @@ author_profile: true
 <ul>
   <li>
     <em> "Comparative Local and Multinational Advantages in the Global Mining Industry" -  
-    <br> <a href="https://steg.cepr.org/publications/comparative-local-and-multinational-advantages-global-mining-industry">CEPR STEG Working Paper</a> , <a href="https://infer-research.eu/publication/local-and-multinational-comparative-advantage-in-the-global-mining-industry/">INFER Working Paper</a> </em>
+    <br> <a href="https://steg.cepr.org/publications/comparative-local-and-multinational-advantages-global-mining-industry">CEPR STEG Working Paper</a> , <a href="https://infer-research.eu/publication/local-and-multinational-comparative-advantage-in-the-global-mining-industry/">INFER Working Paper</a> , , <a href="https://ideas.repec.org/p/inf/wpaper/2025.15.html/">IDEAS repec</a> </em>
     <br> with  <a href="https://ekatovich.github.io/"> Erik Katovich
     </a> and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
+  </li>
+
+  <li>
+    <em> "Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections" - 
+    <br> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5797011"> Available at SSRN 5797011</a>  </em>
+    <br> with Souparna Maji
   </li>
 </ul>
   
@@ -29,13 +35,6 @@ author_profile: true
 </div>
 
 <ul>
-  
-  <li>
-    <em>  <a href="https://www.dropbox.com/scl/fi/idyyathaouwh1609hnno1/DA_Pol_Crime_Eval_DAS_MAJI_210325.pdf?rlkey=qkgwchd4qp3mp0i07fd9wc9c5&st=760dzno1&dl=0">  "Development Assistance and Crime-Accused Politicians: Evidence from Indian Elections"  </a>  </em>
-    <br> with Souparna Maji
-  </li>
-
-
   
   <li>
     <em>"Traceability and Sustainability in Cocoa Supply Chains: Experimental Evidence from Ghana"</em> 
