@@ -18,7 +18,7 @@ author_profile: true
 <ul>
   <li>
     <em> "Comparative Local and Multinational Advantages in the Global Mining Industry" -  
-    <br> <a href="https://steg.cepr.org/publications/comparative-local-and-multinational-advantages-global-mining-industry">CEPR STEG Working Paper</a> , <a href="https://infer-research.eu/publication/local-and-multinational-comparative-advantage-in-the-global-mining-industry/">INFER Working Paper</a> , <a href="https://ideas.repec.org/p/inf/wpaper/2025.15.html/">IDEAS repec</a> </em>
+    <br> <a href="https://steg.cepr.org/publications/comparative-local-and-multinational-advantages-global-mining-industry">CEPR STEG Working Paper</a> , <a href="https://infer-research.eu/publication/local-and-multinational-comparative-advantage-in-the-global-mining-industry/">INFER Working Paper</a> , <a href="https://ideas.repec.org/p/inf/wpaper/2025.15.html">IDEAS repec</a> </em>
     <br> with  <a href="https://ekatovich.github.io/"> Erik Katovich
     </a> and  <a href="https://www.jonahrexer.com/">  Jonah Rexer  </a>
   </li>
