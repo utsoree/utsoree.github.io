@@ -16,9 +16,9 @@ My research is broadly based on Applied Microeconomics- with a focus on Environm
 <span style="font-size: large;">Updates:</span>
 ======
 - I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a _field experiment (RCT)_ in Ghana.
-  <p style="font-size: 0.9em;"> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop"> Field visits:</a> Kumasi, Juaben, Apemso, Agona, Nkawie districts in January 2025.  
-  <br> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7399867862162690048-OXxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Conducted a pilot study:</a> 5 selected villages, Nkawie district - Ashanti Region, Ghana in November 2025. <a href= "https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities"> News article  </a>
-  <br> - <a href="https://www.linkedin.com/posts/utsoree_can-planting-other-trees-on-a-cocoa-farm-activity-7402390516832927744-PsLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Field visits:</a>  Sankofa Agroforestry cocoa farms, Bibiani - Western North Region, Ghana in November 2025.
+  <p style="font-size: 0.9em;"> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop"> Field visits:</a> Kumasi, Juaben, Apemso, Agona, Nkawie districts, Jan 2025.  
+  <br> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7399867862162690048-OXxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Conducted a pilot study:</a> 5 selected villages, Nkawie district - Ashanti Region, Ghana, Nov 2025. <a href= "https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities"> News article  </a>
+  <br> - <a href="https://www.linkedin.com/posts/utsoree_can-planting-other-trees-on-a-cocoa-farm-activity-7402390516832927744-PsLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Field visits:</a>  Sankofa Agroforestry cocoa farms, Bibiani - Western North Region, Ghana, Nov 2025.
   <br> - Upcoming training sessions: April 2026. </p>
   
 
