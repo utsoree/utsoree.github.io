@@ -17,10 +17,11 @@ My research is broadly based on Applied Microeconomics- with a focus on Environm
 ======
 - I am a researcher for [Project TRANSPATH](https://transpath.eu/partners) of the Horizon EU Grant (funded by the European Commission), focusing on a _field experiment (RCT)_ in Ghana.
   <p> <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop"> Field visits:</a> Kumasi, Juaben, Apemso, Agona, Nkawie districts in January 2025.  
-  <br> <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7399867862162690048-OXxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Conducted a pilot study: </a> 5 selected villages, Nkawie district - Ashanti Region, Ghana in November 2025. <a href= "https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities"> News article  </a>
+  <br> <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7399867862162690048-OXxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Conducted a pilot study:</a> 5 selected villages, Nkawie district - Ashanti Region, Ghana in November 2025. <a href= "https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities"> News article  </a>
   <br> <a href="https://www.linkedin.com/posts/utsoree_can-planting-other-trees-on-a-cocoa-farm-activity-7402390516832927744-PsLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Field visits:</a>  Sankofa Agroforestry cocoa farms, Bibiani - Western North Region, Ghana in November 2025.
-    
   <br> Upcoming training sessions: April 2026. </p>
+
+- I won the [IEE Best Teaching Assistant Award](https://drive.google.com/file/d/1cXUajDS1SAhOMBQ3N8PyS_xwc2LLjTUX/view) from the Institute of Economics and Econometrics, Geneva School of Economics and Management, University of Geneva.
   
 - I won the [INFER PhD Paper Award](https://www.linkedin.com/posts/geneva-school-of-economics-and-management---unige_gsem-genevaadvantage-economics-activity-7375813770377404416-HQTo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw) from the [International Network for Economic Research (INFER)](https://infer-research.eu/awards/) - for the paper [Local and Multinational Comparative Advantage in the Global Mining Industry](https://infer-research.eu/publication/local-and-multinational-comparative-advantage-in-the-global-mining-industry/).
   
