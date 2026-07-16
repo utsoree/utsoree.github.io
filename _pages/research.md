@@ -15,6 +15,8 @@ author_profile: true
   <strong>Working Papers:</strong>
 </div>
 
+<div style="font-size: 0.9em;" markdown="1">
+
 <ul>
   <li>
     <em> "Comparative Local and Multinational Advantages in the Global Mining Industry" -  
@@ -30,11 +32,14 @@ author_profile: true
     <br> with Souparna Maji
   </li>
 </ul>
-  
+</div>
+
 <div class="wordwrap" style="margin-top: 50px; margin-bottom: 10px;">
   <strong>Works in Progress:</strong>
 </div>
 
+<div style="font-size: 0.9em;" markdown="1">
+  
 <ul>
   
   <li>
@@ -42,7 +47,7 @@ author_profile: true
     <br> with <a href="https://www.unige.ch/gsem/en/research/faculty/all/salvatore-di-falco/"> Salvatore Di Falco  </a>  and <a href="https://ekatovich.github.io/"> Erik Katovich
     </a> (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
   </li>
-
+</div>
 
   <!-- Uncomment the entry below if you want to include it -->
   <!--
