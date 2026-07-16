@@ -22,7 +22,7 @@ My research is broadly based on applied microeconomics- with a focus on environm
 - I am joining a new project funded by the Swiss National Science Foundation (SNSF) to study the economic impacts of [mining and volcanic risk in the Southern Volcanic Zone of the Andes](https://data.snf.ch/grants/grant/10006231).
   
 - I am an economist and researcher with [Project Transpath](https://transpath.eu/partners), funded by the Horizon Europe Research and Innovation Programme. My work focuses on a *field experiment (RCT)* in Ghana.
-  <ul style="margin-top: -0.7em; margin-bottom: 0;">
+  <ul style="margin-top: -0.5em; margin-bottom: 0;">
     <li><a href="https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities">Read the news article covering the pilot study</a>.</li>
   </ul>
 </div>
