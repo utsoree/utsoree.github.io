@@ -17,8 +17,6 @@ My research is broadly based on applied microeconomics- with a focus on environm
 <span style="font-size: large;">Updates:</span>
 ======
 
- ## Updates
-
  <div style="font-size: 0.9em;" markdown="1">
    
 - I am joining a new project funded by the Swiss National Science Foundation (SNSF) to study the economic impacts of [mining and volcanic risk in the Southern Volcanic Zone of the Andes](https://data.snf.ch/grants/grant/10006231).
