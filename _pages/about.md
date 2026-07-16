@@ -34,7 +34,7 @@ My research is broadly based on applied microeconomics- with a focus on environm
   
 - My research received the [INFER PhD Paper Award](https://www.linkedin.com/posts/geneva-school-of-economics-and-management---unige_gsem-genevaadvantage-economics-activity-7375813770377404416-HQTo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw) from the [International Network for Economic Research (INFER)](https://infer-research.eu/awards/).
   
-- I was awarded the [Subside Tremplin grant](https://www.unige.ch/gsem/en/about/news-events/news/2025/utsoree-das-received-subisde-tremplin/) from the [Equality and Diversity Service, University of Geneva](https://www.unige.ch/rectorat/egalite/programmes-et-formations/programmes/subside-tremplin/) - for the academic year 2025-2026.
+- I was awarded the [Subside Tremplin grant](https://www.unige.ch/gsem/en/about/news-events/news/2025/utsoree-das-received-subisde-tremplin/) from the [Equality and Diversity Service, University of Geneva](https://www.unige.ch/rectorat/egalite/programmes-et-formations/programmes/subside-tremplin/), for the academic year 2025-2026.
 </div>
 
 <span style="font-size: large;">Diversity:</span>
