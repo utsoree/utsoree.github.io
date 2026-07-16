@@ -16,7 +16,7 @@ My research is broadly based on applied microeconomics- with a focus on environm
 
 <span style="font-size: large;">Updates:</span>
 ======
-- I am joining a project funded by the Swiss National Science Foundation (SNSF) to work on the economic impacts of [mining and volcanic risk in the southern volcanic zone of the Andes](https://data.snf.ch/grants/grant/10006231).
+- I am joining a new project funded by the Swiss National Science Foundation (SNSF) to work on the economic impacts of [mining and volcanic risk in the southern volcanic zone of the Andes](https://data.snf.ch/grants/grant/10006231).
   
 - I am an economist and researcher for [Project Transpath](https://transpath.eu/partners) of the Horizon Europe Research and Innovation Programme, focusing on a _field experiment (RCT)_ in Ghana.
   <p style="font-size: 0.9em;"> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop"> Field visits:</a> Kumasi, Juaben, Apemso, Agona, Nkawie districts, Jan 2025.  
