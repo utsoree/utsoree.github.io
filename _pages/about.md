@@ -16,13 +16,13 @@ My research is broadly based on applied microeconomics- with a focus on environm
 
 <span style="font-size: large;">Updates:</span>
 ======
-- I am joining a new project funded by the Swiss National Science Foundation (SNSF) to work on the economic impacts of [mining and volcanic risk in the southern volcanic zone of the Andes](https://data.snf.ch/grants/grant/10006231).
+
+ ## Updates
+ 
+- I am joining a new project funded by the Swiss National Science Foundation (SNSF) to study the economic impacts of [mining and volcanic risk in the Southern Volcanic Zone of the Andes](https://data.snf.ch/grants/grant/10006231).
   
-- I am an economist and researcher for [Project Transpath](https://transpath.eu/partners) of the Horizon Europe Research and Innovation Programme, focusing on a _field experiment (RCT)_ in Ghana.
-  <p style="font-size: 0.9em;"> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7291125373524701185-aGnS?utm_source=share&utm_medium=member_desktop"> Field visits:</a> Kumasi, Juaben, Apemso, Agona, Nkawie districts, Jan 2025.  
-  <br> - <a href="https://www.linkedin.com/posts/utsoree_genevaadvantage-activity-7399867862162690048-OXxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Conducted a pilot study:</a> 5 selected villages, Nkawie district - Ashanti Region, Ghana, Nov 2025. <a href= "https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities"> News article  </a>
-  <br> - <a href="https://www.linkedin.com/posts/utsoree_can-planting-other-trees-on-a-cocoa-farm-activity-7402390516832927744-PsLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpP7UcBVJvvkyv8WRxldQ15w6QfLJuQefw"> Field visits:</a>  Sankofa Agroforestry cocoa farms, Bibiani - Western North Region, Ghana, Nov 2025.
-  <br> - Upcoming training sessions: August 2026. </p>
+- I am an economist and researcher with [Project Transpath](https://transpath.eu/partners), funded by the Horizon Europe Research and Innovation Programme. My work focuses on a *field experiment (RCT)* in Ghana. Read the [news article covering the pilot study](https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities)..
+  
   
 <span style="font-size: large;">Previously:</span>
 ======
