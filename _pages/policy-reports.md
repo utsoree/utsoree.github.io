@@ -7,6 +7,9 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 
+
+<div style="font-size: 0.9em;" markdown="1">
+ 
 <ul>
  <li>
     <em> <a href="https://transpath.eu/storage/app/uploads/public/671/0e0/654/6710e06548f51527854354.pdf#file_name=TRANSPATH%20D4.1%20Review%20of%20policy%20interventions%20and%20policy%20entry%20points.pdf"> "Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade" </a>  </em> 
@@ -16,6 +19,7 @@ author_profile: true
  <li> <em> <a href="https://www.ilo.org/sites/default/files/2025-05/Research%20Brief.Horizontal%20inequalities%20in%20the%20labour%20market"> "Horizontal Inequalities in the Labour Market: A Transnational Review of the Employment and Wage Outcomes of Vulnerable Groups" </a> </em> <br> with <a href="#">Sevane Ananian</a>, <a href="#">Giulia Dellaferrera</a>, <a href="#">Lena Hassani-Nezhad</a>, and <a href="#">Nick Drydakis</a> <br> (<a href="#">ILO Research Brief</a>, 2025) </li>
 
 {% endif %}
+</div>
 
 </ul>
 
