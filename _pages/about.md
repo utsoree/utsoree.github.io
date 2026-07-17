@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size: 0.9em;" markdown="1">
+
 Welcome to my website.
 
 I am a [postdoctoral researcher](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/) at the [Geneva School of Economics and Management](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva. I received my PhD in Economics in June, 2026.
 
 My research is broadly based on applied microeconomics- with a focus on environment and resource, development, innovation, and sustainable transformation. 
 
+</div>
 
 <span style="font-size: large;">Updates:</span>
 ======
