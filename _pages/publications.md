@@ -10,6 +10,8 @@ author_profile: true
   <strong>Peer-Reviewed Publications:</strong>
 </div>
 
+<div style="font-size: 0.9em;" markdown="1">
+  
 <ul style="line-height: 1.8; list-style-type: none; padding-left: 0;">
 
   <li style="margin-bottom: 25px;">
@@ -18,7 +20,6 @@ author_profile: true
     </a> </em> <br>
     Utsoree Das, Giulia Dellaferrera, Sevane Ananian<br>
     Working Paper 141, <em>ILO Working Papers</em>, May 2025
-    <br style="margin-top: 10px;"> (More on this: <em><a href="https://www.ilo.org/sites/default/files/2025-05/Research%20Brief.Horizontal%20inequalities%20in%20the%20labour%20market.pdf"> ILO Research Brief summarising the broader research agenda  </a> </em>)
   </li>
 
   <li style="margin-bottom: 25px;">
@@ -35,6 +36,10 @@ author_profile: true
      </a> </em> <br>
      Utsoree Das, Salvatore Di Falco, Avichal Mahajan<br>
     <em>Environment and Development Economics</em>, October 2023
+
+    </div>
+
+
   </li>
 
 </ul>
