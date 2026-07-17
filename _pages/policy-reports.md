@@ -19,7 +19,7 @@ author_profile: true
   (ILO Research Brief, 2025)
 </p>
 
-<p style="font-size: 0.9em; margin-bottom: 25px;">
+<p style="font-size: 0.9em; margin-top: 40px; margin-bottom: 25px;">
   <em>
     <a href="https://transpath.eu/storage/app/uploads/public/671/0e0/654/6710e06548f51527854354.pdf#file_name=TRANSPATH%20D4.1%20Review%20of%20policy%20interventions%20and%20policy%20entry%20points.pdf">
       "Exploring Policy Leverage Points to Trigger Transformative Change in Finance and Trade"
