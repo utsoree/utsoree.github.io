@@ -37,9 +37,6 @@ author_profile: true
      Utsoree Das, Salvatore Di Falco, Avichal Mahajan<br>
     <em>Environment and Development Economics</em>, October 2023
 
-    </div>
-
-
   </li>
 
 </ul>
