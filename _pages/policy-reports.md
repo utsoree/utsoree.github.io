@@ -22,7 +22,6 @@ author_profile: true
 <li> <em> <a href="https://www.ilo.org/sites/default/files/2025-05/Research%20Brief.Horizontal%20inequalities%20in%20the%20labour%20market"> "Horizontal Inequalities in the Labour Market: A Transnational Review of the Employment and Wage Outcomes of Vulnerable Groups" </a> </em> <br> with <a href="#">Sevane Ananian</a>, <a href="#">Giulia Dellaferrera</a>, <a href="#">Lena Hassani-Nezhad</a>, and <a href="#">Nick Drydakis</a> <br> (<a href="#">ILO Research Brief</a>, 2025) </li>
 
 {% endif %}
-</div>
 
 </ul>
 
