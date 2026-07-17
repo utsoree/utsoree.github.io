@@ -46,6 +46,9 @@ author_profile: true
     <em>"Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana"</em> 
     <br> with George Akandinge, <a href="https://www.wur.nl/en/persons/prof-f-francisco-alpizar-rodriguez/"> Francisco Alpizar </a>, Mensah Cobbinah, <a href="https://www.unige.ch/gsem/en/research/faculty/all/salvatore-di-falco/"> Salvatore Di Falco, </a>  and <a href="https://ekatovich.github.io/"> Erik Katovich
     </a> (funded by TRANSPATH- Horizon Europe Grant No. 101081984)
+    <ul class="small"> 
+      <li>R&amp;R at the <em>Journal of Development Economics</em> (Pre-Registered Report)</li> 
+      <li>RCT In Progress: <a href="https://www.socialscienceregistry.org/trials/18649"> AEA RCT Pre-Registration </a> </li> </ul> 
   </li>
   
 </div>
