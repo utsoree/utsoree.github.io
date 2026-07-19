@@ -9,7 +9,7 @@ author_profile: true
 
 <p style="font-size: 0.9em; margin-top: 40px; margin-bottom: 25px;">
   <em>
-    <a href="https://www.ilo.org/sites/default/files/2025-05/Research%20Brief.Horizontal%20inequalities%20in%20the%20labour%20market">
+    <a href="https://www.ilo.org/sites/default/files/2025-05/Research%20Brief.Horizontal%20inequalities%20in%20the%20labour%20market.pdf">
       "Horizontal Inequalities in the Labour Market: <br> A Transnational Review of the Employment and Wage Outcomes of Vulnerable Groups"
     </a>
   </em>
