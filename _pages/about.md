@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my website.
 
-I am a [postdoctoral researcher](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/) at the [Geneva School of Economics and Management](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva. I received my PhD in Economics in June, 2026.
+I am a [postdoctoral research fellow](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/) at the [Geneva School of Economics and Management](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva. I received my PhD in Economics in June, 2026.
 
 I am an applied economist working on the intersection of environment and resource, innovation, development, and sustainable transformation. 
 
