@@ -13,7 +13,7 @@ Welcome to my website.
 
 I am a [postdoctoral researcher](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/) at the [Geneva School of Economics and Management](https://www.unige.ch/gsem/en/research/institutes/iee/), University of Geneva. I received my PhD in Economics in June, 2026.
 
-My research is broadly based on applied microeconomics- with a focus on environment and resource, development, innovation, and sustainable transformation. 
+I am an applied economist working on the intersection of environment and resource, innovation, development, and sustainable transformation. 
 
 </div>
 
@@ -22,9 +22,9 @@ My research is broadly based on applied microeconomics- with a focus on environm
 
  <div style="font-size: 0.9em;" markdown="1">
    
-- I am joining a new project funded by the Swiss National Science Foundation (SNSF) to study the economic impacts of [mining and volcanic risk in the Southern Volcanic Zone of the Andes](https://data.snf.ch/grants/grant/10006231).
+- I have joined a Swiss National Science Foundation (SNSF) funded project to investigate the economic impacts of [mining and volcanic risk in the Southern Volcanic Zone of the Andes](https://data.snf.ch/grants/grant/10006231).
   
-- I am an economist and researcher with [Project Transpath](https://transpath.eu/partners), funded by the Horizon Europe Research and Innovation Programme. My work focuses on a *field experiment (RCT)* in Ghana.
+- I am an economist and researcher with [Project Transpath](https://transpath.eu/partners), funded by the European Commission for Research and Innovation (Horizon Europe). My work focuses on a *field experiment (RCT)* in Ghana.
   <ul style="margin-top: -0.9em; margin-bottom: 0;">
     <li><a href="https://transpath.eu/news/tracing-every-bean-back-farm-field-visit-ghanas-cocoa-communities">Read the news article covering the pilot study</a>.</li>
   </ul>
